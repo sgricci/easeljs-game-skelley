@@ -25,7 +25,7 @@ module.exports = function(grunt) {
 				dest: 'build/',
 				expand: true,
 				flatten: true
-			}
+			},
 			main: {
 				src: [
 					'app/img/**',
